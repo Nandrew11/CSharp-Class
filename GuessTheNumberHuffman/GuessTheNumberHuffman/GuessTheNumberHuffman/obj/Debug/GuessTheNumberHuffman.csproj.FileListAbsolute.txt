@@ -1,0 +1,11 @@
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\bin\Debug\GuessTheNumberHuffman.exe.config
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\bin\Debug\GuessTheNumberHuffman.exe
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\bin\Debug\GuessTheNumberHuffman.pdb
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.csproj.AssemblyReference.cache
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.csproj.SuggestedBindingRedirects.cache
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.Form1.resources
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.Properties.Resources.resources
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.csproj.GenerateResource.cache
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.csproj.CoreCompileInputs.cache
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.exe
+C:\Users\steel\OneDrive\Desktop\GuessTheNumberHuffman\GuessTheNumberHuffman\obj\Debug\GuessTheNumberHuffman.pdb
