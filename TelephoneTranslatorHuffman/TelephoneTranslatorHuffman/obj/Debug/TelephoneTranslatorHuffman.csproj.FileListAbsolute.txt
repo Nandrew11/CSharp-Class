@@ -1,0 +1,11 @@
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\bin\Debug\TelephoneTranslatorHuffman.exe.config
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\bin\Debug\TelephoneTranslatorHuffman.exe
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\bin\Debug\TelephoneTranslatorHuffman.pdb
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.csproj.AssemblyReference.cache
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.csproj.SuggestedBindingRedirects.cache
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.Form1.resources
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.Properties.Resources.resources
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.csproj.GenerateResource.cache
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.csproj.CoreCompileInputs.cache
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.exe
+C:\Users\steel\OneDrive\Desktop\TelephoneTranslatorHuffman\TelephoneTranslatorHuffman\obj\Debug\TelephoneTranslatorHuffman.pdb
