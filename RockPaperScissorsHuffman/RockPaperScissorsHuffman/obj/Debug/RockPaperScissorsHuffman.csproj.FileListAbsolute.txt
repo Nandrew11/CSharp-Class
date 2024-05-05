@@ -1,0 +1,11 @@
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\bin\Debug\RockPaperScissorsHuffman.exe.config
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\bin\Debug\RockPaperScissorsHuffman.exe
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\bin\Debug\RockPaperScissorsHuffman.pdb
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.csproj.AssemblyReference.cache
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.csproj.SuggestedBindingRedirects.cache
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.Form1.resources
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.Properties.Resources.resources
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.csproj.GenerateResource.cache
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.csproj.CoreCompileInputs.cache
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.exe
+C:\Users\steel\OneDrive\Desktop\RockPaperScissorsHuffman\RockPaperScissorsHuffman\obj\Debug\RockPaperScissorsHuffman.pdb
