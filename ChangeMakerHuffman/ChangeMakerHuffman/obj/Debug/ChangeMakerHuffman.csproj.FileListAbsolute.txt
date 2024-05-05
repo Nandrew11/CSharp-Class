@@ -1,0 +1,11 @@
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\bin\Debug\ChangeMakerHuffman.exe.config
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\bin\Debug\ChangeMakerHuffman.exe
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\bin\Debug\ChangeMakerHuffman.pdb
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.csproj.AssemblyReference.cache
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.csproj.SuggestedBindingRedirects.cache
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.Form1.resources
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.Properties.Resources.resources
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.csproj.GenerateResource.cache
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.csproj.CoreCompileInputs.cache
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.exe
+C:\Users\steel\OneDrive\Desktop\ChangeMakerHuffman\ChangeMakerHuffman\obj\Debug\ChangeMakerHuffman.pdb
