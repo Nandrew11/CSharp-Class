@@ -1,0 +1,11 @@
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\bin\Debug\JoesAutomotiveHuffman.exe.config
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\bin\Debug\JoesAutomotiveHuffman.exe
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\bin\Debug\JoesAutomotiveHuffman.pdb
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.csproj.AssemblyReference.cache
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.csproj.SuggestedBindingRedirects.cache
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.Form1.resources
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.Properties.Resources.resources
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.csproj.GenerateResource.cache
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.csproj.CoreCompileInputs.cache
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.exe
+C:\Users\steel\OneDrive\Desktop\JoesAutomotiveHuffman\JoesAutomotiveHuffman\obj\Debug\JoesAutomotiveHuffman.pdb
